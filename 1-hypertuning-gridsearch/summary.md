@@ -11,7 +11,7 @@ While reading, I encountered a question embedded in the code: "Why do you think 
 
 After visualizing the model, I’ll evaluate whether the evidence supports or refutes that hypothesis.
 
-Looking at the training loss, we observe a clear downward trend, which suggests the model is improving over time and learning from the data.
+Looking at the test loss, we observe a clear downward trend, which suggests the model is improving over time and learning from the data.
 
 <img width="1726" height="544" alt="image" src="https://github.com/user-attachments/assets/95c04cf8-9f11-4c9c-b422-edb7112f462d" />
 
@@ -24,6 +24,13 @@ Wall time----Step---Value
 1757440346---1------0.558107376
 
 1757440347---2------0.51867193
+
+We observe the same downward trend with the trening loss
+
+<img width="1725" height="531" alt="image" src="https://github.com/user-attachments/assets/6dcb7c1b-6b65-40c1-bed3-121b09ec9fe3" />
+
+
+
 
 
 [Go back to Homepage](../README.md)
