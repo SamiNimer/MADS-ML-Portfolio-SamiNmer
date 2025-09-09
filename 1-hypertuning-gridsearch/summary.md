@@ -18,8 +18,11 @@ Looking at the training loss, we observe a clear downward trend, which suggests 
 but the loss is still high
 
 Wall time----Step---Value
+
 1757440345---0------0.666404963
+
 1757440346---1------0.558107376
+
 1757440347---2------0.51867193
 
 
