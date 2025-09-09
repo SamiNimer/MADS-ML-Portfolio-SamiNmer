@@ -16,9 +16,13 @@ Looking at the training loss, we observe a clear downward trend, which suggests 
 <img width="1726" height="544" alt="image" src="https://github.com/user-attachments/assets/95c04cf8-9f11-4c9c-b422-edb7112f462d" />
 
 but the loss is still high
+
 Wall time	    Step	  Value
+
 1757440345	  0	      0.666404963
+
 1757440346	  1	      0.558107376
+
 1757440347	  2	      0.51867193
 
 
