@@ -1,4 +1,4 @@
-# Welcome to My Data Science Portfolio
+# Welcome to My Data Science Portfolio MADS 2025/2026
 
 This portfolio contains a summary of my work, including machine learning exercises, a hackathon project, and critical reflections.
 
@@ -6,7 +6,7 @@ This website is built automatically using GitHub Pages. The main page you're rea
 
 ## Table of Contents
 
-1.  **[Hyperparameter gridsearch](./1-hypertuning-gridsearch/summary.md)**
+1.  **[pytorch_intro](./1-hypertuning-gridsearch/summary.md)**
     * Summary of the first week
 1.  **[Hyperparameter mlflow](./2-hypertuning-mlflow/summary.md)**
     * Summary of the second week
