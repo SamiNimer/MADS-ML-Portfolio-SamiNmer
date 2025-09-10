@@ -49,7 +49,17 @@ While the model's performance did improve compared to the second run, the gains 
 
 <img width="2149" height="1118" alt="image" src="https://github.com/user-attachments/assets/7e77cbbc-5d10-4d89-b9da-ff24394e30b4" />
 
+## Fourth Run
+
+Null Hypothesis: More Is Better
+
+In the fourth run, I expanded the architecture to include 10 layers, each containing 200 hidden units. The model was trained for 20 epochs, with 100 learning steps per layer. Despite the increased depth and capacity, the performance declined—clearly illustrated by the red line in the screenshot below.
+
+Conclusion: More is not always better. Increasing the number of layers and units did not lead to improved results and instead negatively impacted performance.
+
+<img width="2157" height="1112" alt="image" src="https://github.com/user-attachments/assets/e4033d10-0cc4-4187-9770-76740a68db76" />
 
 
+One advantage of increasing the number of epochs is that it gives the model more time to learn and refine its predictions. However, this comes with trade-offs: longer training time and a potentially higher risk of overfitting. If the model continues to improve and the loss keeps decreasing, extending the number of epochs can be beneficial—up to a certain point. Beyond that, the gains may diminish or even reverse.
 
 [Go back to Homepage](../README.md)
