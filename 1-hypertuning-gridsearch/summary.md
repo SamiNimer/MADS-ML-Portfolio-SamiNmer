@@ -29,6 +29,25 @@ We observe the same downward trend with the trening loss
 
 <img width="1725" height="531" alt="image" src="https://github.com/user-attachments/assets/6dcb7c1b-6b65-40c1-bed3-121b09ec9fe3" />
 
+## Second Run
+
+Null Hypothesis: Improved Performance
+
+In the second run, I introduced three additional linear layers, each followed by a non-linear activation function, resulting in a total of five layers. The first two layers were configured using a loop, while the remaining three hidden layers were manually set to 64, 32, and 16 units respectively. I also increased the number of training epochs from 5 to 10, keeping the number of learning steps fixed at 100.
+
+These modifications led to a noticeable improvement in the neural network’s performance. Based on the results, I failed to reject the null hypothesis that the model would perform better with a deeper architecture and extended training.
+
+<img width="2135" height="1032" alt="image" src="https://github.com/user-attachments/assets/ada2647f-bd31-410c-8dd0-5745bc1969a8" />
+
+## Third Run
+
+Null Hypothesis: Improved Performance
+
+For the third run, I maintained the same five-layer architecture, with each layer followed by a non-linear activation function. This time, I set the number of hidden units in each layer to 100 and trained the model for 20 epochs. As expected, increasing both the depth of the network and the number of training epochs resulted in a noticeably longer training time.
+
+While the model's performance did improve compared to the second run, the gains were modest. Given the extended training duration, I had anticipated a more substantial improvement. Therefore, although the null hypothesis of improved performance holds, the results were less impressive than expected.
+
+<img width="2149" height="1118" alt="image" src="https://github.com/user-attachments/assets/7e77cbbc-5d10-4d89-b9da-ff24394e30b4" />
 
 
 
