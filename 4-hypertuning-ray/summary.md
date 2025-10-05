@@ -8,11 +8,8 @@ Research Goal: Systematically investigate how different architectural choices af
 
 Experimental Setup
     -Dataset: Hymenoptera (ants/bees) - 240 training, 150 validation samples
-    
     -Base Architecture: Simple CNN with configurable layers
-    
     -Fixed Parameters: Adam optimizer (lr=0.001), 15 epochs, batch size=32
-    
     -Evaluation Metrics: Validation accuracy, overfitting gap, training stability
 
 
