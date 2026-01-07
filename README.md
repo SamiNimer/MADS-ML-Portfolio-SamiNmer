@@ -1,4 +1,5 @@
 # Welcome to My Data Science Portfolio MADS 2025/2026
+# Sami Nmer
 
 This portfolio contains a summary of my work, including machine learning exercises, a hackathon project, and critical reflections.
 
