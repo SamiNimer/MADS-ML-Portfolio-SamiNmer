@@ -21,6 +21,7 @@ This website is built automatically using GitHub Pages. The main page you're rea
     * https://github.com/SamiNimer/MADS-ML-Portfolio-SamiNmer/blob/main/8-Deployement/summary.md
 1.  **[Ethical Reflection: The Cuddlefish Dilemma](./7-ethics/summary.md)**
     * A critical analysis of the ethical implications of AI-driven camouflage.
+    * https://github.com/SamiNimer/MADS-ML-Portfolio-SamiNmer/tree/main/7-ethics
 
 
 ## How to setup your own portfolio
